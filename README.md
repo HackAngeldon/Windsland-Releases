@@ -2,7 +2,7 @@
 
 # Dynamic Island for Windows: downloads
 
-Official installers for **Dynamic Island**, a smooth, animated island at the top of your Windows screen for music, notifications and charging. Built by [Michael Jimoh (Hack Angel)](https://www.hackangel.xyz/).
+Official installers for **Dynamic Island**, a smooth, animated island at the top of your Windows screen for music, notifications and charging. Built by [Hack Angel](https://www.hackangel.xyz/).
 
 **➜ [Download page and features](https://www.hackangel.xyz/dynamic-island/)**
 
