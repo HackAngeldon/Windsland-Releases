@@ -2,13 +2,13 @@
 
 # Windsland for Windows: downloads
 
-Official installers for **Windsland** (formerly *Dynamic Island*), a smooth, animated island at the top of your Windows screen for music, notifications and charging. Built by [Hack Angel](https://www.hackangel.xyz/).
+Official installers for **Windsland** (formerly *Dynamic Island*), a smooth, animated island at the top of your Windows screen for music, notifications, charging and live activities, plus an optional dock. Built by [Hack Angel](https://www.hackangel.xyz/).
 
 **➜ [Download page and features](https://www.hackangel.xyz/windsland/)**
 
 **➜ [Latest release](https://github.com/HackAngeldon/Windsland-Releases/releases/latest)** (Windows 10 2004+ / Windows 11, x64)
 
-This repository contains release files only; the source code is private.
+This repository contains release files only. **The source code is open** (MIT): **[HackAngeldon/Windsland](https://github.com/HackAngeldon/Windsland)**.
 
 ## The new name
 
